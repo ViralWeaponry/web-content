@@ -11,11 +11,11 @@ date: 2020-02-01
 
 ## What is ReactOS?
 ReactOS is a free and open source operating system written from scratch. Its design is based on Windows in the same way Linux is based on Unix, however ReactOS is _not_ Linux.
-ReactOS looks and feels like Windows, is able to your run Windows software and your Windows drivers, and is familiar to Windows users.
+ReactOS looks and feels like Windows, is able to run your Windows software and your Windows drivers, and is familiar to Windows users.
 
 ## Free and open source?
 Free and Open Source.
-Free as "you can download it for free", and open source..which means...you can see how ReactOS is coded, you can modify it, you can provide patches for any bugs you find, and even more: You can create your own ReactOS versions!
+Free as "you can download it for free", and open source, which means you can see how ReactOS is coded, you can modify it, you can provide patches for any bugs you find, and even more: You can create your own ReactOS versions!
 You're using Open Source software daily if you use Firefox, LibreOffice, OpenOffice, GNU-Linux distributions among zillions of Open Source projects out there. 
 The Open Source projects, as ReactOS, are driven for and by its Community, so being active translating, donating, or coding is a way to help ReactOS boost forward.
 
